@@ -1,15 +1,15 @@
 TSSS is a homology search :tool based on two-step seed search strategy.
 
 ## Requirements
-gcc version >= 4.3
-boost version >= 1.32.0
+gcc version 4.3 or more  
+boost version 1.32.0 or more
 
 ## Installation
 Clone this repository and run make command.
 
 ```sh
 $ git clone https://github.com/akiyamalab/tsss.git
-$ cd ghostd
+$ cd tsss
 $ make -j
 ```
 

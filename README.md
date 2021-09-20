@@ -1,4 +1,7 @@
-TSSS is a homology search :tool based on two-step seed search strategy.
+# TSSS
+[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+
+TSSS is a homology search tool based on two-step seed search strategy.
 
 ## Requirements
 gcc version 4.3 or more  
@@ -90,3 +93,6 @@ Each column shows:
 10. End position of the subject in the alignment
 11. E-value
 12. Normalized score
+
+## Reference
+Takabatake K, Izawa K, Akikawa M, Yanagisawa K, Ohue M, Akiyama Y. **Improved large-scale homology search by two-step seed search using multiple reduced amino acid alphabets**. _Genes_. (in press)

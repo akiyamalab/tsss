@@ -95,4 +95,4 @@ Each column shows:
 12. Normalized score
 
 ## Reference
-Takabatake K, Izawa K, Akikawa M, Yanagisawa K, Ohue M, Akiyama Y. [**Improved large-scale homology search by two-step seed search using multiple reduced amino acid alphabets**](https://doi.org/10.3390/genes12091455). _Genes_, 12(9): 1455, 2021. doi: 10.3390/genes12091455
+Takabatake K, Izawa K, Akikawa M, Yanagisawa K, Ohue M, Akiyama Y. [**Improved large-scale homology search by two-step seed search using multiple reduced amino acid alphabets**](https://doi.org/10.3390/genes12091455). _Genes_, 12(9): 1455, 2021. doi:10.3390/genes12091455
